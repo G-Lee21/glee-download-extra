@@ -1,0 +1,18 @@
+# ห้าม commit ไฟล์ติดตั้ง/ไฟล์แพ็กเกจ (ให้อยู่ใน GitHub Releases เท่านั้น)
+*.exe
+*.msi
+*.zip
+*.7z
+*.apk
+*.aab
+
+# ห้าม commit กุญแจหรือไฟล์ความลับ
+*.jks
+*.keystore
+*.key
+*.pem
+*.p12
+*.pfx
+google-services.json
+.env
+.env.*
