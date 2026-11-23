@@ -1,0 +1,34 @@
+{
+  "app": "MaewDamPC",
+  "version": "1.0.6",
+  "date": "2026-11-23",
+  "min_auto": "1.0.5",
+  "notes": {
+    "th": [
+      "รวมเป็นตัวติดตั้งเดียว GLee-Load-1.0.6-Setup.exe (รวมตัวดึงคลิป + ตัวรวมภาพและเสียง LGPL + Suno + ตัดช่วง พร้อมใช้งานทันที)",
+      "ลิงก์โซเชียลและ YouTube โหลดผ่านเครื่องโหลดแบ่งท่อนความเร็วสูง พร้อมหยุด/โหลดต่อ และถอยกลับอัตโนมัติเมื่อเว็บแบ่งท่อนไม่ได้",
+      "ยุบแท็บเหลือ 3 แท็บ (บ้านแมว · แถวรอดูด · ตั้งนิสัยแมว) ปรับคำไทยโทนแมวดำกวน ๆ พร้อมไอคอนบนทุกปุ่ม",
+      "ปุ่มเปิดแฟ้ม/เปิดดู ดึงหน้าต่างเด้งขึ้นด้านหน้าทันทีพร้อมไฮไลต์ไฟล์",
+      "ส่วนขยาย Chrome / Edge รุ่น 1.2.6 คงหน้าตาพื้นหมอกแบบรุ่น 1.2.4 พร้อมระบบดักไฟล์อัตโนมัติและกด Alt ข้าม"
+    ],
+    "en": [
+      "Single unified installer GLee-Load-1.0.6-Setup.exe (bundles yt-dlp, LGPL FFmpeg, Suno, and clip trimmer ready out of the box)",
+      "Social and YouTube links now download through the multi-part Turbo engine with pause/resume and automatic fallback",
+      "Streamlined 3-tab layout (Home · Queue · Settings) with icons on every button and dynamic sidebar filters",
+      "Open File and Open Folder bring external windows to the foreground immediately with file selection",
+      "Chrome / Edge Extension v1.2.6 restores the v1.2.4 ambient-fog popup and classic 4-item context menu while keeping background auto-catch and Alt bypass"
+    ]
+  },
+  "announcement": {
+    "th": "",
+    "en": ""
+  },
+  "files": {
+    "win-setup": {
+      "url": "https://github.com/G-Lee21/glee-download-extra/releases/download/load-v1.0.6/GLee-Load-1.0.6-Setup.exe",
+      "size": 79939956,
+      "sha256": "7da9d772ca12bf90875a106f5084736c57bc0e9a929748bad35d30c9d5b04013"
+    }
+  },
+  "sig": "4j9WGxRNQR58tRpromCOI5ohNe0H9FIxqiCgzxuuwtW27V9+rbn55KkahrtwAcC8RorSo8v8d2/cCBxH8u/mAw=="
+}

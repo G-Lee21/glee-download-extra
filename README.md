@@ -4,8 +4,8 @@
 
 # ศูนย์ดาวน์โหลดเสริม GLee · GLee Extra Download Center
 
-**ส่วนเสริมโซเชียลสำหรับ Windows และแอปมือถือ Android ใช้งานฟรี ไม่มีโฆษณา**  
-**Free Windows Social Add-on and Android mobile app. No ads.**
+**แมวดำมาเย้ย (GLee Load) ตัวติดตั้งเดียวสำหรับ Windows และแอปมือถือ Android ใช้งานฟรี ไม่มีโฆษณา**  
+**Free unified Windows installer for GLee Load and Android mobile app. No ads.**
 
 [ข้อตกลงการใช้งาน (Terms)](TERMS.md) · [ความเป็นส่วนตัว (Privacy)](PRIVACY.md) · [เครดิตชิ้นส่วน (Credits)](CREDITS.md) · [หน้าดาวน์โหลด (Releases)](https://github.com/G-Lee21/glee-download-extra/releases)
 
@@ -13,26 +13,36 @@
 
 ---
 
-## รายชื่อโปรแกรมและส่วนเสริม · Applications & Add-ons
+## รายชื่อโปรแกรม · Applications
 
 <table>
   <tr>
     <td width="96" align="center" valign="top">
-      <img src="images/icon-glee-load.png" alt="ส่วนเสริมโซเชียล แมวดำมาเย้ย (GLee Load Social Add-on)" width="76" height="76" />
+      <img src="images/icon-glee-load.png" alt="แมวดำมาเย้ย (GLee Load)" width="76" height="76" />
     </td>
     <td valign="top">
-      <h3>ส่วนเสริมโซเชียล แมวดำมาเย้ย (GLee Load Social Add-on) — Windows</h3>
+      <h3>แมวดำมาเย้ย (GLee Load) — Windows (ตัวติดตั้งเดียวพร้อมใช้งาน)</h3>
       <p>
-        ชุดเสริมสำหรับ <strong><a href="https://github.com/G-Lee21/glee-download/releases/tag/load-v1.0.5">แมวดำมาเย้ย (GLee Load) 1.0.5</a></strong> บน Windows เพื่อปลดล็อกการดึงคลิปโซเชียล (<code>yt-dlp</code> + <code>QuickJS</code>), รองรับ Suno, ตัดช่วงคลิปด้วย <strong>FFmpeg รุ่น LGPLv3+ (Shared DLL)</strong> และปุ่ม <strong>"อัปเดตตัวดึงคลิป"</strong> ในหน้าตั้งค่า (ไม่มีชิ้นส่วน GPL / AGPL)<br />
-        <em>Optional Windows add-on for <strong><a href="https://github.com/G-Lee21/glee-download/releases/tag/load-v1.0.5">GLee Load 1.0.5</a></strong> unlocking social clip fetching (<code>yt-dlp</code> + <code>QuickJS</code>), Suno support, Clip Trimming with <strong>LGPLv3+ shared FFmpeg</strong>, and the in-app "Update clip engine" button (zero GPL / AGPL).</em>
+        โปรแกรมช่วยดาวน์โหลดไฟล์และคลิปโซเชียลความเร็วสูงบน Windows แบ่งหลายท่อน หยุดและโหลดต่อได้ จัดคิว ตั้งเวลา จำกัดความเร็ว รองรับไฟล์ใหญ่จาก Google Drive รวมตัวดึงคลิป (<code>yt-dlp</code> + <code>QuickJS</code>), ตัวรวมภาพกับเสียงและตัดช่วง (<strong>FFmpeg รุ่น LGPLv3+ Shared DLL</strong>), Suno และส่วนขยาย Chrome / Edge (รุ่น 1.2.6) ไว้ในไฟล์ติดตั้งเดียว ลงเสร็จโหลด YouTube ได้ทันที (ไม่มีชิ้นส่วน GPL / AGPL)<br />
+        <em>Fast Windows multi-part download manager and media saver with pause/resume, queues, scheduler, speed limiter, Google Drive large-file handling, bundled clip/audio tools (<code>yt-dlp</code>, <code>QuickJS</code>, <strong>LGPLv3+ shared FFmpeg</strong>), Suno support, clip trimmer, and Chrome / Edge extension v1.2.6 in one unified installer (zero GPL / AGPL).</em>
       </p>
       <p>
-        <a href="https://github.com/G-Lee21/glee-download-extra/releases/download/load-social-v1.0.5/GLee-Load-Social-Addon-1.0.5-Setup.exe">
-          <img src="images/badge-download.svg" alt="ดาวน์โหลด Social Add-on 1.0.5 · Download Social Add-on 1.0.5" height="28" />
+        <a href="https://github.com/G-Lee21/glee-download-extra/releases/download/load-v1.0.6/GLee-Load-1.0.6-Setup.exe">
+          <img src="images/badge-download.svg" alt="ดาวน์โหลด GLee Load 1.0.6 · Download GLee Load 1.0.6" height="28" />
         </a>
-        &nbsp;<strong>รุ่น 1.0.5 (v1.0.5)</strong>
+        &nbsp;<strong>รุ่น 1.0.6 (v1.0.6)</strong>
         &nbsp;<code>Windows 10 / 11 (64-bit)</code>
-        &nbsp;·&nbsp;<a href="https://github.com/G-Lee21/glee-download-extra/releases/tag/load-social-v1.0.5">รายละเอียดรุ่น · Release notes</a>
+        &nbsp;·&nbsp;<a href="https://github.com/G-Lee21/glee-download-extra/releases/tag/load-v1.0.6">รายละเอียดรุ่น · Release notes</a>
+      </p>
+      <details open>
+        <summary><strong>ภาพหน้าจอ · Screenshots</strong></summary>
+        <br />
+        <img src="images/screen-glee-load-106.png" alt="หน้าจอแถวรอดูด แมวดำมาเย้ย (GLee Load) 1.0.6" width="760" />
+        <br /><br />
+        <img src="images/screen-glee-load-106-ext.png" alt="ป๊อปอัปส่วนขยาย Chrome / Edge แมวดำมาเย้ย 1.2.6" width="320" />
+      </details>
+      <p>
+        <sub>รุ่นเก่า: ส่วนเสริมโซเชียลแยกสำหรับรุ่น 1.0.5 ยังคงเก็บไว้ที่ <a href="https://github.com/G-Lee21/glee-download-extra/releases/tag/load-social-v1.0.5">load-social-v1.0.5</a> (รุ่น 1.0.6 ขึ้นไปรวมทุกอย่างไว้ในตัวติดตั้งเดียวแล้ว)</sub>
       </p>
     </td>
   </tr>
@@ -59,7 +69,7 @@
   </tr>
 </table>
 
-> **หมายเหตุ / Note:** ไฟล์ติดตั้ง `.apk` จะเผยแพร่ในหน้า [Releases](https://github.com/G-Lee21/glee-download-extra/releases) ของคลังนี้เร็ว ๆ นี้ · The Android `.apk` package will be published on the [Releases](https://github.com/G-Lee21/glee-download-extra/releases) page soon.
+> **หมายเหตุ / Note:** ตัวติดตั้ง Windows `GLee-Load-1.0.6-Setup.exe` พร้อมดาวน์โหลดแล้วในหน้า [Releases](https://github.com/G-Lee21/glee-download-extra/releases) · ไฟล์ `.apk` สำหรับ Android จะเผยแพร่เร็ว ๆ นี้
 
 ---
 
@@ -67,18 +77,19 @@
 
 | รายการ · Item | รายละเอียด · Details |
 |---|---|
-| **ระบบปฏิบัติการ / OS** | Android 7.0 (Nougat) ขึ้นไป · *Android 7.0 or newer* |
-| **สถาปัตยกรรม / Architecture** | มือถือหรือแท็บเล็ตแบบ 64-bit (`arm64-v8a`) · *64-bit Android device* |
+| **Windows** | Windows 10 หรือ Windows 11 รุ่น 64-bit (`x86_64`) พร้อม Google Chrome หรือ Microsoft Edge |
+| **Android** | Android 7.0 (Nougat) ขึ้นไป แบบ 64-bit (`arm64-v8a`) |
 | **บัญชีผู้ใช้ / Account** | ไม่ต้องสมัครสมาชิก ไม่ต้องล็อกอิน · *No account or sign-in required* |
 
 ---
 
 ## วิธีติดตั้ง · How to Install
 
-### ส่วนเสริมโซเชียลสำหรับ Windows (`GLee-Load-Social-Addon-*-Setup.exe`) · Windows Social Add-on
-1. ติดตั้งตัวหลัก **[แมวดำมาเย้ย (GLee Load) 1.0.5](https://github.com/G-Lee21/glee-download/releases/tag/load-v1.0.5)** บน Windows ก่อน
-2. ดาวน์โหลด `GLee-Load-Social-Addon-1.0.5-Setup.exe` จากหน้า [Releases](https://github.com/G-Lee21/glee-download-extra/releases) แล้วดับเบิลคลิกกด **"ติดตั้ง"** *(หากขึ้น SmartScreen กด "ข้อมูลเพิ่มเติม" → "เรียกใช้ต่อไป")*
-3. ตัวติดตั้งจะวางชุดเสริมลง `%LOCALAPPDATA%\MaewDamPC\social-addon\` ให้อัตโนมัติ (ไม่สร้างรายการซ้ำใน Windows Apps) จากนั้นเปิดแมวดำมาเย้ยเพื่อใช้งานดึงคลิปโซเชียล, Suno, ตัดช่วงคลิป และปุ่ม **"อัปเดตตัวดึงคลิป"** ในหน้าตั้งค่าได้ทันที
+### แมวดำมาเย้ยสำหรับ Windows (`GLee-Load-1.0.6-Setup.exe`) · Windows Unified Installer
+1. ดาวน์โหลดไฟล์ `GLee-Load-1.0.6-Setup.exe` จากหน้า [Releases](https://github.com/G-Lee21/glee-download-extra/releases/tag/load-v1.0.6)
+2. ดับเบิลคลิกไฟล์เพื่อเปิดหน้าตัวติดตั้งมาตรฐาน GLee แล้วกด **"ติดตั้ง" (Install)** *(หากขึ้น SmartScreen กด "ข้อมูลเพิ่มเติม" → "เรียกใช้ต่อไป")*
+3. ลงเสร็จแล้วกด **"เปิดเลย" (Launch)** — สามารถวางลิงก์ไฟล์ทั่วไป, Google Drive, YouTube หรือคลิปโซเชียลแล้วกด **"ส่งให้แมวดูด"** ได้ทันทีโดยไม่ต้องลงส่วนเสริมแยก
+4. **ส่วนขยาย Chrome / Edge (รุ่น 1.2.6):** เปิดแท็บ **"ตั้งนิสัยแมว"** → กดปุ่ม **"พกแมวขึ้น Chrome / Edge"** เพื่อเปิดแฟ้ม `ส่วนขยาย Chrome แมวดำมาเย้ย` จากนั้นเปิด `chrome://extensions` (หรือ `edge://extensions`) → เปิด **"โหมดนักพัฒนาซอฟต์แวร์"** → กด **"โหลดส่วนขยายที่แตกไฟล์แล้ว"** แล้วเลือกแฟ้มนั้น *(หากเคยลงรุ่นก่อนไว้แล้ว เพียงกดปุ่มรีโหลด ⟳ บนการ์ดส่วนขยาย)*
 
 ### แอปมือถือ Android (`*.apk`) · Android APK
 
@@ -93,15 +104,15 @@
 
 ## วิธีอัปเดต · How to Update
 
-- **อัปเดตจากในแอป:** เมื่อมีรุ่นใหม่ แอปจะแจ้งเตือนอัตโนมัติ (เช็กรุ่นใหม่จาก GitHub วันละไม่เกิน 1 ครั้ง) เมื่อกดอัปเดต แอปจะดาวน์โหลดไฟล์ `.apk` ตรวจสอบค่า SHA-256 แล้วเปิดหน้าติดตั้งของ Android ให้คุณกด **"ติดตั้ง" (Install)** ทับรุ่นเดิมได้ทันทีโดย **ข้อมูลและการตั้งค่าเดิมอยู่ครบ** *(ครั้งแรกอาจขอสิทธิ์อนุญาตให้แอปนี้ติดตั้งอัปเดต)*
-- **อัปเดตด้วยตนเอง:** ดาวน์โหลดไฟล์ `.apk` รุ่นล่าสุดจากหน้า [Releases](https://github.com/G-Lee21/glee-download-extra/releases) แล้วติดตั้งทับรุ่นเดิมได้เลย
+- **Windows:** เมื่อมีรุ่นใหม่ โปรแกรมจะแจ้งเตือนอัตโนมัติ (เช็กรุ่นใหม่จาก GitHub วันละไม่เกิน 1 ครั้ง) ตรวจสอบความถูกต้องด้วย SHA-256 และลายเซ็นดิจิทัล Ed25519 แล้วติดตั้งทับที่เดิมโดย **ข้อมูลและไฟล์ที่ดาวน์โหลดไว้เดิมอยู่ครบ** นอกจากนี้สามารถกดปุ่ม **"อัปเดตตัวดึงคลิป"** ในหน้าตั้งค่าได้ทุกเมื่อ
+- **Android:** อัปเดตจากในแอป (ตรวจ SHA-256 ก่อนติดตั้งทับ) หรือดาวน์โหลด `.apk` รุ่นล่าสุดจากหน้า [Releases](https://github.com/G-Lee21/glee-download-extra/releases)
 
 ---
 
 ## วิธีถอนการติดตั้ง · How to Uninstall
 
-1. กดค้างที่ไอคอน **แมวดำมาเย้ย** บนหน้าจอโฮม → เลือก **ถอนการติดตั้ง (Uninstall)** *(หรือไปที่ การตั้งค่า → แอป → แมวดำมาเย้ย → ถอนการติดตั้ง)*
-2. ไฟล์วิดีโอและเพลงที่คุณบันทึกไว้ในแฟ้ม `Download` บนเครื่องจะ **ไม่ถูกลบ** ไปพร้อมกับตัวแอป
+- **Windows:** ไปที่ **Settings → Apps → Installed apps** → เลือก **แมวดำมาเย้ย (GLee Load)** → กด **Uninstall** *(ช่อง "เก็บข้อมูลและการตั้งค่าไว้" ติ๊กเป็นค่าเริ่มต้น และไฟล์ที่ผู้ใช้ดาวน์โหลดไว้จะไม่ถูกลบเด็ดขาด)*
+- **Android:** กดค้างที่ไอคอน **แมวดำมาเย้ย** บนหน้าจอโฮม → เลือก **ถอนการติดตั้ง (Uninstall)** *(ไฟล์ในแฟ้ม `Download` ไม่ถูกลบ)*
 
 ---
 

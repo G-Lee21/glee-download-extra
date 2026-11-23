@@ -1,13 +1,15 @@
 # นโยบายความเป็นส่วนตัว · Privacy Policy
 
-> อ้างอิงจากโค้ดจริงของ **ส่วนเสริมโซเชียล แมวดำมาเย้ย (GLee Load Social Add-on — Windows)** และ **แมวดำมาเย้ย (GLee Load — Android `com.glee.maewdam`)** · นโยบายฉบับเต็มบนเว็บ: [https://glee-21.firebaseapp.com/privacy.html](https://glee-21.firebaseapp.com/privacy.html)
+> อ้างอิงจากโค้ดจริงของ **แมวดำมาเย้ย (GLee Load — Windows v1.0.6)** และ **แมวดำมาเย้ย (GLee Load — Android `com.glee.maewdam`)** · นโยบายฉบับเต็มบนเว็บ: [https://glee-21.firebaseapp.com/privacy.html](https://glee-21.firebaseapp.com/privacy.html)
 
 ---
 
-## ส่วนเสริมโซเชียล แมวดำมาเย้ย (Windows Social Add-on)
-- **ทำงานเฉพาะในเครื่อง:** ชุดเสริมติดตั้งไว้ใน `%LOCALAPPDATA%\MaewDamPC\social-addon\` ไม่มีบัญชีผู้ใช้ ไม่มีโฆษณา และไม่มีตัวนับของตนเอง (ปฏิบัติตามนโยบายความเป็นส่วนตัวของตัวหลัก [แมวดำมาเย้ย บน `glee-download`](https://github.com/G-Lee21/glee-download/blob/main/PRIVACY.md))
-- **การเชื่อมต่อภายนอก:** `yt-dlp.exe` เชื่อมต่อตรงไปยังเว็บไซต์ต้นทางของลิงก์ที่ผู้ใช้ระบุเท่านั้น และเมื่อผู้ใช้กดปุ่ม **"อัปเดตตัวดึงคลิป"** ในหน้าตั้งค่า โปรแกรมจะดึง `yt-dlp.exe` รุ่นล่าสุดจากหน้า GitHub Releases ของ `yt-dlp/yt-dlp` โดยตรง
-- *English:* The Windows Social Add-on installs locally under `%LOCALAPPDATA%\MaewDamPC\social-addon\` with no sign-in, no ads, and no separate telemetry. `yt-dlp.exe` connects directly only to user-requested URLs, and clicking "Update clip engine" fetches directly from official `yt-dlp/yt-dlp` GitHub Releases.
+## แมวดำมาเย้ยสำหรับ Windows (GLee Load v1.0.6)
+- **ทำงานในเครื่อง 100% ไม่มีล็อกอิน ไม่มีโฆษณา:** ช่องทางสั่งงานในเครื่องฟังเฉพาะ `127.0.0.1` และตรวจสอบโทเค็นประจำเครื่องกับต้นทาง (`Origin`) เสมอ เว็บไซต์อื่นไม่สามารถสั่งงานโปรแกรมได้
+- **คุกกี้เฉพาะไฟล์ไม่เก็บถาวร:** เมื่อส่วนขยาย Chrome / Edge ส่งลิงก์ที่ต้องใช้สิทธิ์เข้าสู่ระบบของเบราว์เซอร์ คุกกี้จะถูกส่งใช้ในหน่วยความจำ (RAM) เฉพาะการดาวน์โหลดไฟล์นั้นและลบทิ้งทันที ไม่บันทึกลงดิสก์หรือ `chrome.storage`
+- **ตัวนับการใช้งานแบบไม่ระบุตัวตน (ปิดได้ในตั้งค่า):** ส่งเฉพาะจำนวนเหตุการณ์พื้นฐานแบบไม่ระบุตัวตน (เปิดโปรแกรม / โหลดเสร็จ / โหลดพลาด และรหัสภาษา) ไปยัง Google Analytics Measurement Protocol — **ไม่ส่งลิงก์ ชื่อไฟล์ เส้นทางแฟ้ม หรือข้อมูลส่วนตัวใด ๆ เด็ดขาด** สามารถปิดได้ทันทีในแท็บ `ตั้งนิสัยแมว`
+- **การเชื่อมต่อภายนอกและการเช็กรุ่นใหม่:** โปรแกรมและ `yt-dlp.exe` เชื่อมต่อตรงไปยังเว็บไซต์ต้นทางของลิงก์ที่ผู้ใช้สั่งเท่านั้น · เมื่อกด **"อัปเดตตัวดึงคลิป"** จะดึงจาก GitHub Releases ของ `yt-dlp/yt-dlp` โดยตรง · **แอปเช็กรุ่นใหม่จาก GitHub วันละครั้ง ไม่ส่งข้อมูลของคุณ ปิดได้ในตั้งค่า**
+- *English:* GLee Load for Windows v1.0.6 runs locally on `127.0.0.1` with per-machine token & origin verification, no sign-in, and no ads. Extension cookies are ephemeral in RAM per file and never written to disk. Anonymous basic usage counts (open/done/fail) never include URLs, filenames, paths, or personal data and can be turned off in Settings. The app checks GitHub for updates once a day without sending personal data (also toggleable in Settings).
 
 ---
 
@@ -35,7 +37,7 @@
 
 ---
 
-## English
+## English (Android)
 
 ### 1. No Sign-In & No Ads
 - **GLee Load (Android)** has **no account system, no Google sign-in, and no cloud user profile**.
