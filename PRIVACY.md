@@ -1,10 +1,17 @@
 # นโยบายความเป็นส่วนตัว · Privacy Policy
 
-> อ้างอิงจากโค้ดจริงของแอป **แมวดำมาเย้ย (GLee Load)** แอปมือถือ Android (`com.glee.maewdam`) · นโยบายฉบับเต็มบนเว็บ: [https://glee-21.firebaseapp.com/privacy.html](https://glee-21.firebaseapp.com/privacy.html)
+> อ้างอิงจากโค้ดจริงของ **ส่วนเสริมโซเชียล แมวดำมาเย้ย (GLee Load Social Add-on — Windows)** และ **แมวดำมาเย้ย (GLee Load — Android `com.glee.maewdam`)** · นโยบายฉบับเต็มบนเว็บ: [https://glee-21.firebaseapp.com/privacy.html](https://glee-21.firebaseapp.com/privacy.html)
 
 ---
 
-## ภาษาไทย
+## ส่วนเสริมโซเชียล แมวดำมาเย้ย (Windows Social Add-on)
+- **ทำงานเฉพาะในเครื่อง:** ชุดเสริมติดตั้งไว้ใน `%LOCALAPPDATA%\MaewDamPC\social-addon\` ไม่มีบัญชีผู้ใช้ ไม่มีโฆษณา และไม่มีตัวนับของตนเอง (ปฏิบัติตามนโยบายความเป็นส่วนตัวของตัวหลัก [แมวดำมาเย้ย บน `glee-download`](https://github.com/G-Lee21/glee-download/blob/main/PRIVACY.md))
+- **การเชื่อมต่อภายนอก:** `yt-dlp.exe` เชื่อมต่อตรงไปยังเว็บไซต์ต้นทางของลิงก์ที่ผู้ใช้ระบุเท่านั้น และเมื่อผู้ใช้กดปุ่ม **"อัปเดตตัวดึงคลิป"** ในหน้าตั้งค่า โปรแกรมจะดึง `yt-dlp.exe` รุ่นล่าสุดจากหน้า GitHub Releases ของ `yt-dlp/yt-dlp` โดยตรง
+- *English:* The Windows Social Add-on installs locally under `%LOCALAPPDATA%\MaewDamPC\social-addon\` with no sign-in, no ads, and no separate telemetry. `yt-dlp.exe` connects directly only to user-requested URLs, and clicking "Update clip engine" fetches directly from official `yt-dlp/yt-dlp` GitHub Releases.
+
+---
+
+## แอปมือถือ Android — ภาษาไทย
 
 ### 1. ไม่มีการล็อกอินและไม่มีโฆษณา
 - แอป **ไม่มีระบบสมัครสมาชิก ไม่มีการล็อกอิน Google และไม่เก็บบัญชีผู้ใช้**

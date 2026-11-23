@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="206" height="28" viewBox="0 0 206 28" role="img" aria-label="ดาวน์โหลด / Download">
+  <defs>
+    <linearGradient id="dlBg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#15803D"/>
+      <stop offset="100%" stop-color="#047857"/>
+    </linearGradient>
+  </defs>
+  <rect width="206" height="28" rx="14" fill="url(#dlBg)"/>
+  <path d="M18 8.5v7.5m0 0l-3-3m3 3l3-3M13.5 19h9" fill="none" stroke="#FFFFFF" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="32" y="18.5" fill="#FFFFFF" font-family="Segoe UI, system-ui, -apple-system, Arial, sans-serif" font-size="12.5" font-weight="700">ดาวน์โหลด · Download</text>
+</svg>

@@ -1,0 +1,30 @@
+{
+  "app": "MaewDamPC-Social",
+  "version": "1.0.5",
+  "date": "2026-11-23",
+  "min_auto": "1.0.5",
+  "notes": {
+    "th": [
+      "ส่วนเสริมโซเชียลสำหรับ แมวดำมาเย้ย (GLee Load) 1.0.5 บน Windows",
+      "รวม yt-dlp (2026.10.26, Unlicense), QuickJS (MIT) และ FFmpeg / FFprobe รุ่น LGPLv3+ Shared Build (ไม่มี GPL/AGPL)",
+      "ปลดล็อกดึงคลิปโซเชียล, รองรับ Suno, ตัดช่วงคลิป และปุ่มอัปเดตตัวดึงคลิปในหน้าตั้งค่า"
+    ],
+    "en": [
+      "Optional Windows Social Add-on for GLee Load 1.0.5",
+      "Includes yt-dlp (2026.10.26, Unlicense), QuickJS (MIT), and FFmpeg/FFprobe LGPLv3+ shared build (zero GPL/AGPL)",
+      "Enables social clip fetching, Suno support, Clip Trimming, and in-app clip engine updates"
+    ]
+  },
+  "announcement": {
+    "th": "",
+    "en": ""
+  },
+  "files": {
+    "win-setup": {
+      "url": "https://github.com/G-Lee21/glee-download-extra/releases/download/load-social-v1.0.5/GLee-Load-Social-Addon-1.0.5-Setup.exe",
+      "size": 76655263,
+      "sha256": "10098a64cdcd5f07e514552bc19dfb8894b83dfe6d423813a615ef1124f269fc"
+    }
+  },
+  "sig": "a+8cnO+RuftSp4ruOsud5urrEmC/Sq2OOl+2JFj5huT4nACYJ3R3SGWTorVZpDo0CD4wDkn2fRTMf44h85E1Aw=="
+}

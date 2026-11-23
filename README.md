@@ -4,8 +4,8 @@
 
 # ศูนย์ดาวน์โหลดเสริม GLee · GLee Extra Download Center
 
-**แอปมือถือ Android ใช้งานฟรี ไม่มีโฆษณา**  
-**Free Android mobile app. No ads.**
+**ส่วนเสริมโซเชียลสำหรับ Windows และแอปมือถือ Android ใช้งานฟรี ไม่มีโฆษณา**  
+**Free Windows Social Add-on and Android mobile app. No ads.**
 
 [ข้อตกลงการใช้งาน (Terms)](TERMS.md) · [ความเป็นส่วนตัว (Privacy)](PRIVACY.md) · [เครดิตชิ้นส่วน (Credits)](CREDITS.md) · [หน้าดาวน์โหลด (Releases)](https://github.com/G-Lee21/glee-download-extra/releases)
 
@@ -13,9 +13,29 @@
 
 ---
 
-## รายชื่อแอป · Application
+## รายชื่อโปรแกรมและส่วนเสริม · Applications & Add-ons
 
 <table>
+  <tr>
+    <td width="96" align="center" valign="top">
+      <img src="images/icon-glee-load.png" alt="ส่วนเสริมโซเชียล แมวดำมาเย้ย (GLee Load Social Add-on)" width="76" height="76" />
+    </td>
+    <td valign="top">
+      <h3>ส่วนเสริมโซเชียล แมวดำมาเย้ย (GLee Load Social Add-on) — Windows</h3>
+      <p>
+        ชุดเสริมสำหรับ <strong><a href="https://github.com/G-Lee21/glee-download/releases/tag/load-v1.0.5">แมวดำมาเย้ย (GLee Load) 1.0.5</a></strong> บน Windows เพื่อปลดล็อกการดึงคลิปโซเชียล (<code>yt-dlp</code> + <code>QuickJS</code>), รองรับ Suno, ตัดช่วงคลิปด้วย <strong>FFmpeg รุ่น LGPLv3+ (Shared DLL)</strong> และปุ่ม <strong>"อัปเดตตัวดึงคลิป"</strong> ในหน้าตั้งค่า (ไม่มีชิ้นส่วน GPL / AGPL)<br />
+        <em>Optional Windows add-on for <strong><a href="https://github.com/G-Lee21/glee-download/releases/tag/load-v1.0.5">GLee Load 1.0.5</a></strong> unlocking social clip fetching (<code>yt-dlp</code> + <code>QuickJS</code>), Suno support, Clip Trimming with <strong>LGPLv3+ shared FFmpeg</strong>, and the in-app "Update clip engine" button (zero GPL / AGPL).</em>
+      </p>
+      <p>
+        <a href="https://github.com/G-Lee21/glee-download-extra/releases/download/load-social-v1.0.5/GLee-Load-Social-Addon-1.0.5-Setup.exe">
+          <img src="images/badge-download.svg" alt="ดาวน์โหลด Social Add-on 1.0.5 · Download Social Add-on 1.0.5" height="28" />
+        </a>
+        &nbsp;<strong>รุ่น 1.0.5 (v1.0.5)</strong>
+        &nbsp;<code>Windows 10 / 11 (64-bit)</code>
+        &nbsp;·&nbsp;<a href="https://github.com/G-Lee21/glee-download-extra/releases/tag/load-social-v1.0.5">รายละเอียดรุ่น · Release notes</a>
+      </p>
+    </td>
+  </tr>
   <tr>
     <td width="96" align="center" valign="top">
       <img src="images/icon-glee-load-android.png" alt="แมวดำมาเย้ย (GLee Load)" width="76" height="76" />
@@ -53,7 +73,14 @@
 
 ---
 
-## วิธีติดตั้ง (APK) · How to Install (APK)
+## วิธีติดตั้ง · How to Install
+
+### ส่วนเสริมโซเชียลสำหรับ Windows (`GLee-Load-Social-Addon-*-Setup.exe`) · Windows Social Add-on
+1. ติดตั้งตัวหลัก **[แมวดำมาเย้ย (GLee Load) 1.0.5](https://github.com/G-Lee21/glee-download/releases/tag/load-v1.0.5)** บน Windows ก่อน
+2. ดาวน์โหลด `GLee-Load-Social-Addon-1.0.5-Setup.exe` จากหน้า [Releases](https://github.com/G-Lee21/glee-download-extra/releases) แล้วดับเบิลคลิกกด **"ติดตั้ง"** *(หากขึ้น SmartScreen กด "ข้อมูลเพิ่มเติม" → "เรียกใช้ต่อไป")*
+3. ตัวติดตั้งจะวางชุดเสริมลง `%LOCALAPPDATA%\MaewDamPC\social-addon\` ให้อัตโนมัติ (ไม่สร้างรายการซ้ำใน Windows Apps) จากนั้นเปิดแมวดำมาเย้ยเพื่อใช้งานดึงคลิปโซเชียล, Suno, ตัดช่วงคลิป และปุ่ม **"อัปเดตตัวดึงคลิป"** ในหน้าตั้งค่าได้ทันที
+
+### แอปมือถือ Android (`*.apk`) · Android APK
 
 1. ดาวน์โหลดไฟล์ `GLee-Load-Android-*.apk` จากหน้า [Releases](https://github.com/G-Lee21/glee-download-extra/releases) บนมือถือ Android ของคุณ
 2. แตะเปิดไฟล์ `.apk` ที่ดาวน์โหลดมา (จากแถบแจ้งเตือนหรือแอปจัดการไฟล์)
