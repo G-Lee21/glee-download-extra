@@ -1,22 +1,24 @@
 {
   "app": "MaewDamPC",
-  "version": "1.0.6",
-  "date": "2026-11-23",
+  "version": "1.0.7",
+  "date": "2026-11-24",
   "min_auto": "1.0.5",
   "notes": {
     "th": [
-      "รวมเป็นตัวติดตั้งเดียว GLee-Load-1.0.6-Setup.exe (รวมตัวดึงคลิป + ตัวรวมภาพและเสียง LGPL + Suno + ตัดช่วง พร้อมใช้งานทันที)",
-      "ลิงก์โซเชียลและ YouTube โหลดผ่านเครื่องโหลดแบ่งท่อนความเร็วสูง พร้อมหยุด/โหลดต่อ และถอยกลับอัตโนมัติเมื่อเว็บแบ่งท่อนไม่ได้",
-      "ยุบแท็บเหลือ 3 แท็บ (บ้านแมว · แถวรอดูด · ตั้งนิสัยแมว) ปรับคำไทยโทนแมวดำกวน ๆ พร้อมไอคอนบนทุกปุ่ม",
-      "ปุ่มเปิดแฟ้ม/เปิดดู ดึงหน้าต่างเด้งขึ้นด้านหน้าทันทีพร้อมไฮไลต์ไฟล์",
-      "ส่วนขยาย Chrome / Edge รุ่น 1.2.6 คงหน้าตาพื้นหมอกแบบรุ่น 1.2.4 พร้อมระบบดักไฟล์อัตโนมัติและกด Alt ข้าม"
+      "รวมหน้ารายการเหลือ 2 แท็บ (บ้านแมว · ตั้งนิสัยแมว) พร้อมปุ่มสลับมุมมอง ตาราง / การ์ด ที่มุมขวาบนและจำแบบที่เลือกไว้",
+      "เปลี่ยนที่อยู่หน้าโปรแกรมในเบราว์เซอร์เป็น http://maewdam.localhost:47823/ (รองรับทั้งส่วนขยาย 1.2.6 เดิมและรุ่นใหม่ 1.2.7)",
+      "แก้บั๊กคลิป Facebook Reels ให้โหลดได้ทั้งภาพและเสียงครบ พร้อมชื่อคลิปจริงไม่ติดยอดวิว/ไลก์",
+      "ปรับกรอบเลือกความชัดเป็นแถวเสียง / วิดีโอ / รูปปก แสดงขนาดไฟล์จริงตรงตามที่จะโหลด (คลาดเคลื่อน ≤ 2%) และไม่พับเก็บเองหลังกดโหลด",
+      "เพิ่มปุ่มดาวน์โหลดรูปปกความละเอียดสูงสุด (แปลง .webp เป็น .jpg อัตโนมัติ) และแก้ปกคลิป/ไฟล์เพลงให้แสดงรูปปกจริงของคลิปนั้น",
+      "เพิ่มเครื่องเล่นในตัวพื้นดำ #000000 (วิดีโอ เพลงพร้อมปก และรูป) พร้อมปุ่มตัดช่วงและเปิดด้วยโปรแกรมอื่น และปุ่มไปรังแมวเปิดเป็นแท็บใหม่ใน File Explorer พร้อมไฮไลต์ไฟล์"
     ],
     "en": [
-      "Single unified installer GLee-Load-1.0.6-Setup.exe (bundles yt-dlp, LGPL FFmpeg, Suno, and clip trimmer ready out of the box)",
-      "Social and YouTube links now download through the multi-part Turbo engine with pause/resume and automatic fallback",
-      "Streamlined 3-tab layout (Home · Queue · Settings) with icons on every button and dynamic sidebar filters",
-      "Open File and Open Folder bring external windows to the foreground immediately with file selection",
-      "Chrome / Edge Extension v1.2.6 restores the v1.2.4 ambient-fog popup and classic 4-item context menu while keeping background auto-catch and Alt bypass"
+      "Unified 2-tab layout (Home · Settings) with a persistent Table / Cards view switcher and active downloads pinned on top",
+      "Cleaner local browser address http://maewdam.localhost:47823/ (backwards compatible with Extension v1.2.6; bundled v1.2.7)",
+      "Fixed Facebook Reels downloads to capture full video+audio streams and real clip titles instead of view/reaction counts",
+      "Grouped quality picker (Audio / Video / Cover) with standard resolution labels, exact pre-download file sizes (≤ 2% variance), and persistent multi-download selection",
+      "Added highest-resolution cover download (auto-converts .webp to .jpg) and fixed audio/video card thumbnails to use the clip cover",
+      "Added built-in #000000 media player (video, audio with cover art, image) with Trim & Open Externally, plus new-tab File Explorer folder opening"
     ]
   },
   "announcement": {
@@ -25,10 +27,10 @@
   },
   "files": {
     "win-setup": {
-      "url": "https://github.com/G-Lee21/glee-download-extra/releases/download/load-v1.0.6/GLee-Load-1.0.6-Setup.exe",
-      "size": 79939956,
-      "sha256": "7da9d772ca12bf90875a106f5084736c57bc0e9a929748bad35d30c9d5b04013"
+      "url": "https://github.com/G-Lee21/glee-download-extra/releases/download/load-v1.0.7/GLee-Load-1.0.7-Setup.exe",
+      "size": 79992576,
+      "sha256": "3ff43a484003c0c0b467074e7b46168c8cddb52b5e2f0f7fc5b0cec085def5ee"
     }
   },
-  "sig": "4j9WGxRNQR58tRpromCOI5ohNe0H9FIxqiCgzxuuwtW27V9+rbn55KkahrtwAcC8RorSo8v8d2/cCBxH8u/mAw=="
+  "sig": "0WnrO0bKNxVHNiVn2QEnVeag3qFDsPlmcrTf3w32ah+y+D18m9KlzyyECSAmYbuPt5AhmMUnXKo+3RcRg9nBBQ=="
 }
