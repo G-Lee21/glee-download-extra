@@ -5,16 +5,16 @@
   "min_auto": "1.0.5",
   "notes": {
     "th": [
-      "รวมหน้ารายการเหลือ 2 แท็บ (บ้านแมว · ตั้งนิสัยแมว) พร้อมปุ่มสลับมุมมอง ตาราง / การ์ด ที่มุมขวาบนและจำแบบที่เลือกไว้",
-      "เปลี่ยนที่อยู่หน้าโปรแกรมในเบราว์เซอร์เป็น http://maewdam.localhost:47823/ (รองรับทั้งส่วนขยาย 1.2.6 เดิมและรุ่นใหม่ 1.2.7)",
+      "โปรแกรม 1.0.7 · ส่วนขยาย 2.0.7: รวมหน้ารายการเหลือ 2 แท็บ (บ้านแมว · ตั้งนิสัยแมว) พร้อมปุ่มสลับมุมมอง ตาราง / การ์ด ที่มุมขวาบนและจำแบบที่เลือกไว้",
+      "เปลี่ยนที่อยู่หน้าโปรแกรมในเบราว์เซอร์เป็น http://maewdam.localhost:47823/ (รองรับทั้ง ส่วนขยาย 1.2.6 เดิมและ ส่วนขยาย 2.0.7 ใหม่ พร้อมแจ้งเตือนในหน้าตั้งค่าเมื่อรุ่นส่วนขยายไม่ตรง)",
       "แก้บั๊กคลิป Facebook Reels ให้โหลดได้ทั้งภาพและเสียงครบ พร้อมชื่อคลิปจริงไม่ติดยอดวิว/ไลก์",
       "ปรับกรอบเลือกความชัดเป็นแถวเสียง / วิดีโอ / รูปปก แสดงขนาดไฟล์จริงตรงตามที่จะโหลด (คลาดเคลื่อน ≤ 2%) และไม่พับเก็บเองหลังกดโหลด",
       "เพิ่มปุ่มดาวน์โหลดรูปปกความละเอียดสูงสุด (แปลง .webp เป็น .jpg อัตโนมัติ) และแก้ปกคลิป/ไฟล์เพลงให้แสดงรูปปกจริงของคลิปนั้น",
       "เพิ่มเครื่องเล่นในตัวพื้นดำ #000000 (วิดีโอ เพลงพร้อมปก และรูป) พร้อมปุ่มตัดช่วงและเปิดด้วยโปรแกรมอื่น และปุ่มไปรังแมวเปิดเป็นแท็บใหม่ใน File Explorer พร้อมไฮไลต์ไฟล์"
     ],
     "en": [
-      "Unified 2-tab layout (Home · Settings) with a persistent Table / Cards view switcher and active downloads pinned on top",
-      "Cleaner local browser address http://maewdam.localhost:47823/ (backwards compatible with Extension v1.2.6; bundled v1.2.7)",
+      "App 1.0.7 · Extension 2.0.7: Unified 2-tab layout (Home · Settings) with a persistent Table / Cards view switcher and active downloads pinned on top",
+      "Cleaner local browser address http://maewdam.localhost:47823/ (compatible with Extension 1.2.6; bundled Extension 2.0.7 with live version-mismatch check in Settings)",
       "Fixed Facebook Reels downloads to capture full video+audio streams and real clip titles instead of view/reaction counts",
       "Grouped quality picker (Audio / Video / Cover) with standard resolution labels, exact pre-download file sizes (≤ 2% variance), and persistent multi-download selection",
       "Added highest-resolution cover download (auto-converts .webp to .jpg) and fixed audio/video card thumbnails to use the clip cover",
@@ -28,9 +28,9 @@
   "files": {
     "win-setup": {
       "url": "https://github.com/G-Lee21/glee-download-extra/releases/download/load-v1.0.7/GLee-Load-1.0.7-Setup.exe",
-      "size": 79992576,
-      "sha256": "3ff43a484003c0c0b467074e7b46168c8cddb52b5e2f0f7fc5b0cec085def5ee"
+      "size": 79997126,
+      "sha256": "b5416154a5e1cc2f1841b365235bef73ab7d0841f8d46aed35f8ccdace707a84"
     }
   },
-  "sig": "0WnrO0bKNxVHNiVn2QEnVeag3qFDsPlmcrTf3w32ah+y+D18m9KlzyyECSAmYbuPt5AhmMUnXKo+3RcRg9nBBQ=="
+  "sig": "Rjz8DSwoWx/LHRocBNsd2kt8H/iev9jenZPGyKi/CK20B7dHdfNgovfqZ/gj9gJsIDxKwF8CF8PIaVj2AdkOBw=="
 }
