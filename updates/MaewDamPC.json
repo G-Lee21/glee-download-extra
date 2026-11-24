@@ -1,24 +1,22 @@
 {
   "app": "MaewDamPC",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "date": "2026-11-24",
   "min_auto": "1.0.5",
   "notes": {
     "th": [
-      "โปรแกรม 1.0.7 · ส่วนขยาย 2.0.7: รวมหน้ารายการเหลือ 2 แท็บ (บ้านแมว · ตั้งนิสัยแมว) พร้อมปุ่มสลับมุมมอง ตาราง / การ์ด ที่มุมขวาบนและจำแบบที่เลือกไว้",
-      "เปลี่ยนที่อยู่หน้าโปรแกรมในเบราว์เซอร์เป็น http://maewdam.localhost:47823/ (รองรับทั้ง ส่วนขยาย 1.2.6 เดิมและ ส่วนขยาย 2.0.7 ใหม่ พร้อมแจ้งเตือนในหน้าตั้งค่าเมื่อรุ่นส่วนขยายไม่ตรง)",
-      "แก้บั๊กคลิป Facebook Reels ให้โหลดได้ทั้งภาพและเสียงครบ พร้อมชื่อคลิปจริงไม่ติดยอดวิว/ไลก์",
-      "ปรับกรอบเลือกความชัดเป็นแถวเสียง / วิดีโอ / รูปปก แสดงขนาดไฟล์จริงตรงตามที่จะโหลด (คลาดเคลื่อน ≤ 2%) และไม่พับเก็บเองหลังกดโหลด",
-      "เพิ่มปุ่มดาวน์โหลดรูปปกความละเอียดสูงสุด (แปลง .webp เป็น .jpg อัตโนมัติ) และแก้ปกคลิป/ไฟล์เพลงให้แสดงรูปปกจริงของคลิปนั้น",
-      "เพิ่มเครื่องเล่นในตัวพื้นดำ #000000 (วิดีโอ เพลงพร้อมปก และรูป) พร้อมปุ่มตัดช่วงและเปิดด้วยโปรแกรมอื่น และปุ่มไปรังแมวเปิดเป็นแท็บใหม่ใน File Explorer พร้อมไฮไลต์ไฟล์"
+      "โปรแกรม 1.0.8 · ส่วนขยาย 1.0.8: ปรับกฎเลขรุ่นใหม่ให้ตัวโปรแกรมและส่วนขยายใช้เลขเดียวกันเป๊ะทุกรุ่น (รองรับการกดรีโหลดอัปเดตจาก ส่วนขยาย 2.0.7 → ส่วนขยาย 1.0.8 โดยค่าตั้งเดิมอยู่ครบ)",
+      "แผงเลือกคุณภาพแสดงครบทุกความชัดเรียงจากมากไปน้อย (เอาปุ่ม \"เพิ่มเติม\" ออก) จัดปุ่มกว้างเท่ากันตรงคอลัมน์ทุกแถว (เสียง · วิดีโอ · รูปปก)",
+      "แก้ไขแผงเลือกคุณภาพให้อยู่เฉพาะในหน้าบ้านแมว ดันเนื้อหาลงไม่ลอยทับหน้าตั้งนิสัยแมว และสลับกลับหน้าบ้านแมวให้อัตโนมัติเมื่อกด \"ส่งให้แมวดูด\"",
+      "ปุ่ม \"พกแมวขึ้น Chrome / Edge\" เปิดแฟ้มที่ติดตั้งจริงพร้อมไฮไลต์แฟ้ม \"ส่วนขยาย Chrome แมวดำมาเย้ย\" แสดงที่อยู่เต็มพร้อมปุ่ม \"คัดลอกที่อยู่\"",
+      "แก้บั๊กหน้ากะพริบระหว่างกำลังโหลด: อัปเดตเฉพาะตัวเลขความเร็ว ขนาดที่ได้ เวลาที่เหลือ และแถบความคืบหน้าของรายการที่กำลังโหลดทุก 0.25 วินาทีด้วยค่าจริง ไม่วาดทั้งหน้าใหม่และไม่โหลดรูปปกซ้ำ"
     ],
     "en": [
-      "App 1.0.7 · Extension 2.0.7: Unified 2-tab layout (Home · Settings) with a persistent Table / Cards view switcher and active downloads pinned on top",
-      "Cleaner local browser address http://maewdam.localhost:47823/ (compatible with Extension 1.2.6; bundled Extension 2.0.7 with live version-mismatch check in Settings)",
-      "Fixed Facebook Reels downloads to capture full video+audio streams and real clip titles instead of view/reaction counts",
-      "Grouped quality picker (Audio / Video / Cover) with standard resolution labels, exact pre-download file sizes (≤ 2% variance), and persistent multi-download selection",
-      "Added highest-resolution cover download (auto-converts .webp to .jpg) and fixed audio/video card thumbnails to use the clip cover",
-      "Added built-in #000000 media player (video, audio with cover art, image) with Trim & Open Externally, plus new-tab File Explorer folder opening"
+      "App 1.0.8 · Extension 1.0.8: Unified matching version rule across app and extension (supports seamless reload from Extension 2.0.7 to Extension 1.0.8 while preserving settings)",
+      "Quality picker now always shows all video resolutions sorted highest to lowest (removed \"More\" collapse) in a uniform aligned grid across Audio, Video, and Cover rows",
+      "Quality picker now stays strictly inside the Home tab in normal flow without floating over Settings, and auto-switches to Home when clicking Inspect",
+      "\"Install Chrome / Edge Extension\" opens the actual install folder with \"ส่วนขยาย Chrome แมวดำมาเย้ย\" highlighted and displays the full path with a Copy Path button",
+      "Fixed page flickering during active downloads: updates only active progress bars and real-time speed/bytes/ETA every 0.25s with zero full-page re-render or thumbnail reloads"
     ]
   },
   "announcement": {
@@ -27,10 +25,10 @@
   },
   "files": {
     "win-setup": {
-      "url": "https://github.com/G-Lee21/glee-download-extra/releases/download/load-v1.0.7/GLee-Load-1.0.7-Setup.exe",
-      "size": 79997126,
-      "sha256": "b5416154a5e1cc2f1841b365235bef73ab7d0841f8d46aed35f8ccdace707a84"
+      "url": "https://github.com/G-Lee21/glee-download-extra/releases/download/load-v1.0.8/GLee-Load-1.0.8-Setup.exe",
+      "size": 80000941,
+      "sha256": "e2e651f5fed0be5f9f2484710e57847729e5162b62e721f6afa14b72c8d898bf"
     }
   },
-  "sig": "Rjz8DSwoWx/LHRocBNsd2kt8H/iev9jenZPGyKi/CK20B7dHdfNgovfqZ/gj9gJsIDxKwF8CF8PIaVj2AdkOBw=="
+  "sig": "A7yWvCeap8wxbg/4eSkx1SCgEW/Si/uPGme1GQU7paLvcW08igRAdNtb1m8rrjBUyXBUOTzru1gpBipyGEdUBA=="
 }
