@@ -21,22 +21,22 @@
       <img src="images/icon-glee-load.png" alt="แมวดำมาเย้ย (GLee Load)" width="76" height="76" />
     </td>
     <td valign="top">
-      <h3>แมวดำมาเย้ย (GLee Load) — Windows (โปรแกรม 1.1.4 · ส่วนขยาย 1.1.4)</h3>
+      <h3>แมวดำมาเย้ย (GLee Load) — Windows (โปรแกรม 1.1.8 · ส่วนขยาย 1.1.8)</h3>
       <p>
-        โปรแกรมช่วยดาวน์โหลดไฟล์และคลิปโซเชียลความเร็วสูงบน Windows แบ่งหลายท่อน หยุดและโหลดต่อได้ จัดคิว ตั้งเวลา จำกัดความเร็ว รองรับไฟล์ใหญ่จาก Google Drive <strong>คิวเลือกความชัดหลายลิงก์</strong> (`รอเลือกความชัด N / M`, ไม่แย่งแผงที่เปิดอยู่, เลือกแล้วไปลิงก์ถัดไปเอง, ใช้ความชัดเดียวกับที่รอทั้งหมด, กันลิงก์ซ้ำ) ครบ 3 ธีม (ขาว · ดำ · สีรุ้ง) อยู่หน้าเว็บเดิมพร้อมป้ายแมว 1.1 วิ รวมตัวดึงคลิป (<code>yt-dlp</code> + <code>QuickJS-ng</code>), ตัวรวมภาพกับเสียงและตัดช่วง (<strong>FFmpeg รุ่น LGPLv3+ Shared DLL</strong>), เครื่องเล่นในตัวพื้นดำ, ปุ่มโหลดรูปปก, Suno และส่วนขยาย Chrome / Edge (<strong>ส่วนขยาย 1.1.4</strong>) ไว้ในไฟล์ติดตั้งเดียว ลงเสร็จโหลด YouTube และ Facebook Reels ได้ทันที (ไม่มีชิ้นส่วน GPL / AGPL)<br />
-        <em>Fast Windows multi-part download manager and media saver (<strong>App 1.1.4 · Extension 1.1.4</strong>) featuring a multi-link Quality Picker Queue (Waiting N / M, non-hijacking arrivals, auto-advance, Apply to All Waiting, duplicate guard), 3 themes (White · Black · Rainbow), stay-on-page default with 1.1s Cat Toast, user-initiated download catching only, pause/resume, queues, scheduler, speed limiter, Google Drive large-file handling, bundled clip/audio tools (<code>yt-dlp</code>, <code>QuickJS-ng</code>, <strong>LGPLv3+ shared FFmpeg</strong>), built-in media player, cover downloader, Suno support, clip trimmer, and Chrome / Edge <strong>Extension 1.1.4</strong> in one unified installer (zero GPL / AGPL).</em>
+        โปรแกรมช่วยดาวน์โหลดไฟล์และคลิปโซเชียลความเร็วสูงบน Windows แบ่งหลายท่อน หยุดและโหลดต่อได้ จัดคิว ตั้งเวลา จำกัดความเร็ว รองรับไฟล์ใหญ่จาก Google Drive <strong>คิวเลือกความชัดหลายลิงก์</strong> (`รอเลือกความชัด N / M`, ไม่แย่งแผงที่เปิดอยู่, เลือกแล้วไปลิงก์ถัดไปเอง, ใช้ความชัดเดียวกับที่รอทั้งหมด, กันลิงก์ซ้ำ) ครบ 3 ธีม (ขาว · ดำ · สีรุ้ง) อยู่หน้าเว็บเดิมพร้อมป้ายแมว 1.1 วิ รวมตัวดึงคลิป (<code>yt-dlp</code> + <code>QuickJS-ng</code>), ตัวรวมภาพกับเสียงและตัดช่วง (<strong>FFmpeg รุ่น LGPLv3+ Shared DLL</strong>), เครื่องเล่นในตัวพื้นดำ, ปุ่มโหลดรูปปก, Suno และส่วนขยาย Chrome / Edge (<strong>ส่วนขยาย 1.1.8</strong>) ไว้ในไฟล์ติดตั้งเดียว ลงเสร็จโหลด YouTube และ Facebook Reels ได้ทันที (ไม่มีชิ้นส่วน GPL / AGPL)<br />
+        <em>Fast Windows multi-part download manager and media saver (<strong>App 1.1.8 · Extension 1.1.8</strong>) featuring a multi-link Quality Picker Queue (Waiting N / M, non-hijacking arrivals, auto-advance, Apply to All Waiting, duplicate guard), 3 themes (White · Black · Rainbow), stay-on-page default with 1.1s Cat Toast, user-initiated download catching only, pause/resume, queues, scheduler, speed limiter, Google Drive large-file handling, bundled clip/audio tools (<code>yt-dlp</code>, <code>QuickJS-ng</code>, <strong>LGPLv3+ shared FFmpeg</strong>), built-in media player, cover downloader, Suno support, clip trimmer, and Chrome / Edge <strong>Extension 1.1.8</strong> in one unified installer (zero GPL / AGPL).</em>
       </p>
       <p>
-        <a href="https://github.com/G-Lee21/glee-download-extra/releases/download/load-v1.1.4/GLee-Load-1.1.4-Setup.exe">
-          <img src="images/badge-download.svg" alt="ดาวน์โหลด แมวดำมาเย้ย โปรแกรม 1.1.4 · ส่วนขยาย 1.1.4" height="28" />
+        <a href="https://github.com/G-Lee21/glee-download-extra/releases/download/load-v1.1.8/GLee-Load-1.1.8-Setup.exe">
+          <img src="images/badge-download.svg" alt="ดาวน์โหลด แมวดำมาเย้ย โปรแกรม 1.1.8 · ส่วนขยาย 1.1.8" height="28" />
         </a>
-        &nbsp;<strong>โปรแกรม 1.1.4 · ส่วนขยาย 1.1.4</strong>
+        &nbsp;<strong>โปรแกรม 1.1.8 · ส่วนขยาย 1.1.8</strong>
         &nbsp;<code>Windows 10 / 11 (64-bit)</code>
-        &nbsp;·&nbsp;<a href="https://github.com/G-Lee21/glee-download-extra/releases/tag/load-v1.1.4">รายละเอียด โปรแกรม 1.1.4 · ส่วนขยาย 1.1.4</a>
+        &nbsp;·&nbsp;<a href="https://github.com/G-Lee21/glee-download-extra/releases/tag/load-v1.1.8">รายละเอียด โปรแกรม 1.1.8 · ส่วนขยาย 1.1.8</a>
       </p>
       <p>
-        <strong>วิธีอัปเดตส่วนขยาย:</strong> เปิด <code>chrome://extensions</code> หรือ <code>edge://extensions</code> → กด <code>⟳</code> ที่ส่วนขยายแมวดำมาเย้ย → ต้องขึ้น <strong>ส่วนขยาย 1.1.4</strong><br />
-        <em><strong>Update extension:</strong> Open <code>chrome://extensions</code> or <code>edge://extensions</code> → click <code>⟳</code> on GLee Load → confirm it shows <strong>Extension 1.1.4</strong>.</em>
+        <strong>วิธีอัปเดตส่วนขยาย:</strong> เปิด <code>chrome://extensions</code> หรือ <code>edge://extensions</code> → กด <code>⟳</code> ที่ส่วนขยายแมวดำมาเย้ย → ต้องขึ้น <strong>ส่วนขยาย 1.1.8</strong><br />
+        <em><strong>Update extension:</strong> Open <code>chrome://extensions</code> or <code>edge://extensions</code> → click <code>⟳</code> on GLee Load → confirm it shows <strong>Extension 1.1.8</strong>.</em>
       </p>
       <details open>
         <summary><strong>ภาพหน้าจอ · Screenshots</strong></summary>
@@ -46,7 +46,7 @@
         <img src="images/screen-glee-load-114-ext.png" alt="ป๊อปอัปส่วนขยาย Chrome / Edge แมวดำมาเย้ย ส่วนขยาย 1.1.4" width="320" />
       </details>
       <p>
-        <sub>รุ่นก่อนหน้า: <a href="https://github.com/G-Lee21/glee-download-extra/releases/tag/load-v1.1.0">โปรแกรม 1.1.0 · ส่วนขยาย 1.1.0</a> · โปรแกรมและส่วนขยายใช้เลขรุ่นเดียวกันเป๊ะทุกรุ่น</sub>
+        <sub>รุ่นก่อนหน้า: <a href="https://github.com/G-Lee21/glee-download-extra/releases/tag/load-v1.1.4">โปรแกรม 1.1.4 · ส่วนขยาย 1.1.4</a> · โปรแกรมและส่วนขยายใช้เลขรุ่นเดียวกันเป๊ะทุกรุ่น</sub>
       </p>
     </td>
   </tr>
@@ -73,7 +73,7 @@
   </tr>
 </table>
 
-> **หมายเหตุ / Note:** ตัวติดตั้ง Windows `GLee-Load-1.1.4-Setup.exe` (**โปรแกรม 1.1.4 · ส่วนขยาย 1.1.4**) พร้อมดาวน์โหลดแล้วในหน้า [Releases](https://github.com/G-Lee21/glee-download-extra/releases) · ไฟล์ `.apk` สำหรับ Android จะเผยแพร่เร็ว ๆ นี้
+> **หมายเหตุ / Note:** ตัวติดตั้ง Windows `GLee-Load-1.1.8-Setup.exe` (**โปรแกรม 1.1.8 · ส่วนขยาย 1.1.8**) พร้อมดาวน์โหลดแล้วในหน้า [Releases](https://github.com/G-Lee21/glee-download-extra/releases) · ไฟล์ `.apk` สำหรับ Android จะเผยแพร่เร็ว ๆ นี้
 
 ---
 
@@ -89,12 +89,16 @@
 
 ## วิธีติดตั้ง · How to Install
 
-### แมวดำมาเย้ยสำหรับ Windows (`GLee-Load-1.1.4-Setup.exe` — โปรแกรม 1.1.4 · ส่วนขยาย 1.1.4) · Windows Unified Installer
-1. ดาวน์โหลดไฟล์ `GLee-Load-1.1.4-Setup.exe` จากหน้า [Releases](https://github.com/G-Lee21/glee-download-extra/releases/tag/load-v1.1.4)
+### แมวดำมาเย้ยสำหรับ Windows (`GLee-Load-1.1.8-Setup.exe` — โปรแกรม 1.1.8 · ส่วนขยาย 1.1.8) · Windows Unified Installer
+1. ดาวน์โหลดไฟล์ `GLee-Load-1.1.8-Setup.exe` จากหน้า [Releases](https://github.com/G-Lee21/glee-download-extra/releases/tag/load-v1.1.8)
 2. ดับเบิลคลิกไฟล์เพื่อเปิดหน้าตัวติดตั้งมาตรฐาน GLee แล้วกด **"ติดตั้ง" (Install)** *(หากขึ้น SmartScreen กด "ข้อมูลเพิ่มเติม" → "เรียกใช้ต่อไป")*
 3. ลงเสร็จแล้วกด **"เปิดเลย" (Launch)** — สามารถวางลิงก์ไฟล์ทั่วไป, Google Drive, YouTube หรือคลิปโซเชียลแล้วกด **"ส่งให้แมวดูด"** ได้ทันทีโดยไม่ต้องลงส่วนเสริมแยก
-4. **ส่วนขยาย Chrome / Edge (ส่วนขยาย 1.1.4):** เปิดแท็บ **"ตั้งนิสัยแมว"** → กดปุ่ม **"พกแมวขึ้น Chrome / Edge"** เพื่อเปิดแฟ้มที่ติดตั้งพร้อมไฮไลต์แฟ้ม `ส่วนขยาย Chrome แมวดำมาเย้ย` จากนั้นเปิด `chrome://extensions` (หรือ `edge://extensions`) → เปิด **"โหมดนักพัฒนาซอฟต์แวร์"** → กด **"โหลดส่วนขยายที่แตกไฟล์แล้ว"** แล้วเลือกแฟ้ม `ส่วนขยาย Chrome แมวดำมาเย้ย`
-   - **หากอัปเดตจากรุ่นเดิม:** เปิด `chrome://extensions` หรือ `edge://extensions` → กดปุ่มรีโหลด `⟳` ที่การ์ดส่วนขยาย → ต้องขึ้น **ส่วนขยาย 1.1.4** *(If upgrading: open `chrome://extensions` or `edge://extensions` → click `⟳` on the extension → confirm **Extension 1.1.4**)*
+4. **ส่วนขยาย Chrome / Edge (ส่วนขยาย 1.1.8):** เปิดแท็บ **"ตั้งนิสัยแมว"** → กดปุ่ม **"พกแมวขึ้น Chrome / Edge"** เพื่อเปิดแฟ้มที่ติดตั้งพร้อมไฮไลต์แฟ้ม `ส่วนขยาย Chrome แมวดำมาเย้ย` จากนั้นเปิด `chrome://extensions` (หรือ `edge://extensions`) → เปิด **"โหมดนักพัฒนาซอฟต์แวร์"** → กด **"โหลดส่วนขยายที่แตกไฟล์แล้ว"** แล้วเลือกแฟ้ม `ส่วนขยาย Chrome แมวดำมาเย้ย`
+   - **หากอัปเดตจากรุ่นเดิม:** เปิด `chrome://extensions` หรือ `edge://extensions` → กดปุ่มรีโหลด `⟳` ที่การ์ดส่วนขยาย → ต้องขึ้น **ส่วนขยาย 1.1.8** *(If upgrading: open `chrome://extensions` or `edge://extensions` → click `⟳` on the extension → confirm **Extension 1.1.8**)*
+
+#### วิธีลงส่วนขยาย
+
+![วิธีลงส่วนขยาย](images/glee-load-install-extension.jpg)
 
 ### แอปมือถือ Android (`*.apk`) · Android APK
 
@@ -110,7 +114,7 @@
 ## วิธีอัปเดต · How to Update
 
 - **Windows:** แอปเช็กรุ่นใหม่จาก GitHub ทุกครั้งที่เปิด ไม่ส่งข้อมูลของคุณ ปิดได้ในตั้งค่า · เมื่อมีรุ่นใหม่กดอัปเดตในแอปได้ทันที พร้อมแถบเปอร์เซ็นต์ ความเร็ว และเวลาที่เหลือ กดยกเลิกได้ ตรวจสอบความถูกต้องด้วย SHA-256 และลายเซ็นดิจิทัล Ed25519 แล้วติดตั้งทับที่เดิมโดย **ข้อมูลและไฟล์ที่ดาวน์โหลดไว้เดิมอยู่ครบ** นอกจากนี้สามารถกดปุ่ม **"อัปเดตตัวดึงคลิป"** ในหน้าตั้งค่าได้ทุกเมื่อ
-  - **หลังอัปเดตโปรแกรม อย่าลืมรีโหลดส่วนขยาย:** เปิด `chrome://extensions` หรือ `edge://extensions` → กด `⟳` ที่ส่วนขยายแมวดำมาเย้ย → ต้องขึ้น **ส่วนขยาย 1.1.4**
+  - **หลังอัปเดตโปรแกรม อย่าลืมรีโหลดส่วนขยาย:** เปิด `chrome://extensions` หรือ `edge://extensions` → กด `⟳` ที่ส่วนขยายแมวดำมาเย้ย → ต้องขึ้น **ส่วนขยาย 1.1.8**
 - **Android:** อัปเดตจากในแอป (ตรวจ SHA-256 ก่อนติดตั้งทับ) หรือดาวน์โหลด `.apk` รุ่นล่าสุดจากหน้า [Releases](https://github.com/G-Lee21/glee-download-extra/releases)
 
 ---

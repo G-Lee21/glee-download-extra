@@ -1,22 +1,22 @@
 {
   "app": "MaewDamPC",
-  "version": "1.1.4",
-  "date": "2026-11-25",
+  "version": "1.1.8",
+  "date": "2026-11-26",
   "min_auto": "1.0.5",
   "notes": {
     "th": [
-      "คิวเลือกความชัดหลายลิงก์: ส่งหลายลิงก์ต่อกันได้ มีตัวนับ รอเลือกความชัด N / M, ปุ่ม ‹ › และไฮไลต์แถวกำลังเลือก",
-      "ไม่แย่งแผงที่เปิดอยู่: ลิงก์ใหม่ต่อท้ายคิวพร้อมป้าย +1 ลิงก์ใหม่เข้าคิว 2 วินาที",
-      "ช่องติ๊กเลือกแล้วไปลิงก์ถัดไปเอง (จำค่าไว้) และพับแผงอัตโนมัติเมื่อคิวว่าง",
-      "ปุ่มใช้ความชัดนี้กับที่รอทั้งหมด (M) สั่งโหลดทุกลิงก์ที่รอและลิงก์ที่ยังส่องอยู่ด้วยความชัดเดียวกัน",
-      "กันลิงก์ซ้ำทั้งคิวรอและกำลังโหลด พร้อมป้ายแมว มีอยู่แล้ว และรวมทุกการปรับปรุงรุ่น 1.1.1–1.1.3 (3 ธีม, อยู่หน้าเว็บเดิม, หน้าตั้งค่าใหม่)"
+      "ภาพเล็กของคลิปในแผงเลือกความชัดทุกสถานะ (รอเลือก 1 ลิงก์และคิว ‹ ›, เลือกแล้ว, กำลังส่องด้วยช่องจองไม่ให้ชื่อขยับ, และแถบตอนพับเก็บ)",
+      "ปุ่มความชัดทั้งหมดในแผง (480p, 720p, เสียง M4A, รูปปก) แสดงสีเต็มและกดเลือกโหลดเพิ่มได้ตลอด ไม่จางหรือล็อก",
+      "แผงเลือกความชัดปรับสีเข้ากับครบ 3 ธีม (ขาว · ดำ · สีรุ้ง) ไม่หายเอง และพับเก็บ/กางได้ตลอดเวลา",
+      "หน้าจอหลักสะอาดตาขึ้น แถบซ้ายกระชับ รวมตารางเดียว และวางแผงเลือกความชัดลอยเหนือตาราง (รวมการปรับปรุง 1.1.5–1.1.8)",
+      "หลังอัปเดตอย่าลืมรีโหลดส่วนขยาย Chrome / Edge (กด ⟳) ให้ขึ้น ส่วนขยาย 1.1.8 ตรงกับ โปรแกรม 1.1.8"
     ],
     "en": [
-      "Multi-link Quality Picker Queue with Waiting N / M counter, ‹ › navigation, and active row highlight",
-      "Non-hijacking queue arrival: new links append FIFO with a 2s +1 new link queued badge",
-      "Persisted auto-advance to next link checkbox and automatic panel collapse when queue empties",
-      "Apply to All Waiting (M) button starts all ready links and auto-starts inspecting links once ready",
-      "Duplicate guard for waiting and active downloads plus all 1.1.1–1.1.3 improvements (3 themes, stay-on-page default, revamped Settings)"
+      "Clip thumbnail in the Quality Picker across every state (waiting single/queue ‹ ›, picked, inspecting with fixed placeholder, and collapsed bar)",
+      "All quality buttons (480p, 720p, M4A audio, thumbnail) stay full-color and always clickable without dimming or locking",
+      "Soft-tinted Quality Picker matched to all 3 themes (White · Black · Rainbow), non-disappearing, and collapsible/expandable anytime",
+      "Cleaner main screen with streamlined sidebar, unified download table, and floating Quality Picker (includes 1.1.5–1.1.8 improvements)",
+      "After updating, reload the Chrome / Edge extension (click ⟳) to confirm Extension 1.1.8 matches App 1.1.8"
     ]
   },
   "announcement": {
@@ -25,10 +25,10 @@
   },
   "files": {
     "win-setup": {
-      "url": "https://github.com/G-Lee21/glee-download-extra/releases/download/load-v1.1.4/GLee-Load-1.1.4-Setup.exe",
-      "size": 80179932,
-      "sha256": "ab74b381ed0131c6aa4ad3227418740ef56750c9d9acd58f487e41f298cb6c39"
+      "url": "https://github.com/G-Lee21/glee-download-extra/releases/download/load-v1.1.8/GLee-Load-1.1.8-Setup.exe",
+      "size": 80181648,
+      "sha256": "5ba39cda54cce778abfa11d85a79ac88dc6869227d0d74f041d62d8158d01255"
     }
   },
-  "sig": "qLnZZl43kmD4Vf1FzL7OTpdxzd1OlNzfgHXsJcfdLS7TljiTZSQ3G8L6CD9OgdyIwnWY21eFnPAC2EgX44XdCg=="
+  "sig": "GkEGYZaLRVhHMHh3P622KdsX14iLxM6/30Wwf0TqHPn2wcOagFciygaMZygkNs0h5PSz5ghm/DBRBJgDhyd2Bw=="
 }
